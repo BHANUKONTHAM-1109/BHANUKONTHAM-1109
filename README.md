@@ -1,5 +1,5 @@
 # 💫 About Me:
-Undergraduate  in B. Tech Computer Science and Engineering<br>I'm a Computer Science undergrad passionate about building things that sit at the intersection of Machine Learning, NLP, and Full-Stack Development. I like turning research-level ideas into working systems — whether that's a RAG pipeline for document Q&A, a stress-prediction model for smarter task allocation, or security middleware protecting robotic systems with NLP threat detection.<br>Currently exploring LLM applications, applied ML systems, and how classical algorithms hold their ground in high-stakes real-world environments.
+Undergraduate  in B.Tech Computer Science and Engineering<br>I'm a Computer Science undergrad passionate about building things that sit at the intersection of Machine Learning, NLP, and Full-Stack Development. I like turning research-level ideas into working systems — whether that's a RAG pipeline for document Q&A, a stress-prediction model for smarter task allocation, or security middleware protecting robotic systems with NLP threat detection.<br>Currently exploring LLM applications, applied ML systems, and how classical algorithms hold their ground in high-stakes real-world environments.
 
 
 ## 🌐 Socials:
